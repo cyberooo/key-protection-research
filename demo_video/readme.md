@@ -1,6 +1,6 @@
 ## This folder hosts materials for the POC exploit.
 
-For ethical considerations, we cannot release the source code of the forged version of Baidu Input Method. Instead, we open sourced the attack payload and the loader method (see the ExploitLoader folder), and uploaded the demonstration video to show the effectiveness of our POC exploit.
+For ethical considerations, we cannot release the source code of the forged version of Baidu Input Method. Instead, we open-sourced the attack payload and the loader method (see the ExploitLoader folder) and uploaded the demonstration video to show the effectiveness of our POC exploit.
 
 For the demo video:
 
