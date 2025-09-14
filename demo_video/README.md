@@ -2,7 +2,7 @@
 
 For ethical considerations, we cannot release the source code of the forged version of Baidu Input Method. Instead, we open-sourced the attack payload and the loader method (see the ExploitLoader folder) and uploaded the demonstration video to show the effectiveness of our POC exploit. 
 
-To reproduce the POC attack, you would need to have some basic hacking knowledge and experience. The loader function has already include the attack payload as a binary string. So, you just need to compile the loader project to obtain a Smali version of the loader functions. Then, you will need to locate the initialization point of the victim app and insert the loader Smali code into the Smali code of the victim app. Finally, you can re-sign the Smali package with a higher version, and install on a device as an app update. 
+To reproduce the POC attack, you would need to have some basic hacking knowledge and experience. The loader function has already included the attack payload as a binary string. So, you just need to compile the loader project to obtain a Smali version of the loader functions. Then, you will need to locate the initialization point of the victim app and insert the loader Smali code into the Smali code of the victim app. Finally, you can re-sign the Smali package with a higher version and install it on a device as an app update. 
 
 For the demo video:
 
