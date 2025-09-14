@@ -9,5 +9,5 @@ There are three folders in this repository:
 
 ## You can navigate to the specific folder to see more details. Each folder has a dedicated README file.
 
-## Please note that due to ethical considerations, we cannot fully open-source the complete keystore results and the implementation of the POC attack. Instead, we uploaded the necessary technical details to prove the authenticity of our project. Thanks for your understanding.
+> Please note that due to ethical considerations and intellectual property preservation (because the POC is built based on reverse engineering a third-party proprietary app), we cannot fully open-source the complete implementation of the POC attack. Instead, we uploaded the necessary technical details to prove the authenticity of our project. Thanks for your understanding.
 
